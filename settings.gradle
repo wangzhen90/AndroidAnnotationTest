@@ -1,0 +1,2 @@
+include ':app', ':annotation-lib', ':annotation-processor'
+rootProject.name='AnnotationJavaTest'
